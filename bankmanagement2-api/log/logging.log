@@ -1,0 +1,1612 @@
+2025-10-10 05:23:00 - HikariPool-5 - Thread starvation or clock leap detected (housekeeper delta=6h58m10s551ms581µs100ns).
+2025-10-10 05:23:07 - HikariPool-5 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:23:07 - HikariPool-5 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:23:07 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@81b5c1f is alive
+2025-10-10 05:23:07 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1fc2ef34 is alive
+2025-10-10 05:23:07 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6409508c is alive
+2025-10-10 05:23:07 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@36749608 is alive
+2025-10-10 05:23:07 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@2741126c is alive
+2025-10-10 05:23:07 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@c9e244d is alive
+2025-10-10 05:23:07 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@2cdb3fd1 is alive
+2025-10-10 05:23:07 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@53ac1325 is alive
+2025-10-10 05:23:07 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5fd40b7 is alive
+2025-10-10 05:23:07 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@324da03a is alive
+2025-10-10 05:23:07 - HikariPool-5 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@36749608: (connection has passed maxLifetime)
+2025-10-10 05:23:07 - HikariPool-5 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@53ac1325: (connection has passed maxLifetime)
+2025-10-10 05:23:07 - HikariPool-5 - Attempting to create/setup new connection (1fed4d6d-7977-4e45-a481-bb714d74a777)
+2025-10-10 05:23:07 - HikariPool-5 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@5fd40b7: (connection has passed maxLifetime)
+2025-10-10 05:23:07 - HikariPool-5 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@81b5c1f: (connection has passed maxLifetime)
+2025-10-10 05:23:08 - HikariPool-5 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@6409508c: (connection has passed maxLifetime)
+2025-10-10 05:23:08 - HikariPool-5 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@2741126c: (connection has passed maxLifetime)
+2025-10-10 05:23:08 - HikariPool-5 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@2cdb3fd1: (connection has passed maxLifetime)
+2025-10-10 05:23:08 - HikariPool-5 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@1fc2ef34: (connection has passed maxLifetime)
+2025-10-10 05:23:08 - HikariPool-5 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@324da03a: (connection has passed maxLifetime)
+2025-10-10 05:23:08 - HikariPool-5 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@c9e244d: (connection has passed maxLifetime)
+2025-10-10 05:23:08 - HikariPool-5 - Established new connection (1fed4d6d-7977-4e45-a481-bb714d74a777)
+2025-10-10 05:23:08 - HikariPool-5 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5b5e2d80
+2025-10-10 05:23:08 - HikariPool-5 - Attempting to create/setup new connection (79e179ad-2beb-48f0-bef8-c692e2727b11)
+2025-10-10 05:23:09 - HikariPool-5 - Established new connection (79e179ad-2beb-48f0-bef8-c692e2727b11)
+2025-10-10 05:23:09 - HikariPool-5 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1a6327bb
+2025-10-10 05:23:09 - HikariPool-5 - Attempting to create/setup new connection (3ed77b6a-0500-40d1-a921-91fb3a44f27b)
+2025-10-10 05:23:09 - HikariPool-5 - Established new connection (3ed77b6a-0500-40d1-a921-91fb3a44f27b)
+2025-10-10 05:23:09 - HikariPool-5 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2b3339fd
+2025-10-10 05:23:09 - HikariPool-5 - Attempting to create/setup new connection (9e45bbc0-2187-4ce3-93d8-bfb4a582208e)
+2025-10-10 05:23:10 - HikariPool-5 - Established new connection (9e45bbc0-2187-4ce3-93d8-bfb4a582208e)
+2025-10-10 05:23:10 - HikariPool-5 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7a4cd8f4
+2025-10-10 05:23:10 - HikariPool-5 - Attempting to create/setup new connection (a7861d9c-da95-4bed-8d4d-496579a59361)
+2025-10-10 05:23:10 - HikariPool-5 - Established new connection (a7861d9c-da95-4bed-8d4d-496579a59361)
+2025-10-10 05:23:10 - HikariPool-5 - Added connection com.mysql.cj.jdbc.ConnectionImpl@104268ab
+2025-10-10 05:23:25 - HikariPool-5 - Attempting to create/setup new connection (bad3ab9c-50fe-4a53-9e5a-583a328f4d9a)
+2025-10-10 05:23:26 - HikariPool-5 - Established new connection (bad3ab9c-50fe-4a53-9e5a-583a328f4d9a)
+2025-10-10 05:23:26 - HikariPool-5 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7e024609
+2025-10-10 05:23:26 - HikariPool-5 - Attempting to create/setup new connection (1c9111aa-e69e-4844-a7bf-3b9515916847)
+2025-10-10 05:23:27 - HikariPool-5 - Established new connection (1c9111aa-e69e-4844-a7bf-3b9515916847)
+2025-10-10 05:23:27 - HikariPool-5 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3d448abd
+2025-10-10 05:23:27 - HikariPool-5 - Attempting to create/setup new connection (b8b04894-25dd-4885-8198-3663d2dad69f)
+2025-10-10 05:23:27 - HikariPool-5 - Established new connection (b8b04894-25dd-4885-8198-3663d2dad69f)
+2025-10-10 05:23:27 - HikariPool-5 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1e0e750e
+2025-10-10 05:23:27 - HikariPool-5 - Attempting to create/setup new connection (16e4249a-a734-4763-9820-4606e6b97f11)
+2025-10-10 05:23:28 - HikariPool-5 - Established new connection (16e4249a-a734-4763-9820-4606e6b97f11)
+2025-10-10 05:23:28 - HikariPool-5 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3c2adc10
+2025-10-10 05:23:28 - HikariPool-5 - Attempting to create/setup new connection (123bd555-7bc2-4bd5-b968-94bdd6a09b7b)
+2025-10-10 05:23:28 - HikariPool-5 - Established new connection (123bd555-7bc2-4bd5-b968-94bdd6a09b7b)
+2025-10-10 05:23:28 - HikariPool-5 - Added connection com.mysql.cj.jdbc.ConnectionImpl@217b5414
+2025-10-10 05:23:28 - HikariPool-5 - Connection not added, stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:23:37 - HikariPool-5 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:23:37 - HikariPool-5 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:24:07 - HikariPool-5 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:24:07 - HikariPool-5 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:24:37 - HikariPool-5 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:24:37 - HikariPool-5 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:24:47 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@104268ab is alive
+2025-10-10 05:24:47 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7a4cd8f4 is alive
+2025-10-10 05:24:57 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1a6327bb is alive
+2025-10-10 05:25:00 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@2b3339fd is alive
+2025-10-10 05:25:05 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5b5e2d80 is alive
+2025-10-10 05:25:07 - HikariPool-5 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:25:07 - HikariPool-5 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:25:17 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@217b5414 is alive
+2025-10-10 05:25:17 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3d448abd is alive
+2025-10-10 05:25:17 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7e024609 is alive
+2025-10-10 05:25:20 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3c2adc10 is alive
+2025-10-10 05:25:21 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1e0e750e is alive
+2025-10-10 05:25:37 - HikariPool-5 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:25:37 - HikariPool-5 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:26:07 - HikariPool-5 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:26:07 - HikariPool-5 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:26:23 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@104268ab is alive
+2025-10-10 05:26:25 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7a4cd8f4 is alive
+2025-10-10 05:26:37 - HikariPool-5 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:26:37 - HikariPool-5 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:26:45 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1a6327bb is alive
+2025-10-10 05:26:51 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@2b3339fd is alive
+2025-10-10 05:27:01 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5b5e2d80 is alive
+2025-10-10 05:27:05 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@217b5414 is alive
+2025-10-10 05:27:07 - HikariPool-5 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:27:07 - HikariPool-5 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:27:07 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3d448abd is alive
+2025-10-10 05:27:09 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7e024609 is alive
+2025-10-10 05:27:11 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3c2adc10 is alive
+2025-10-10 05:27:14 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1e0e750e is alive
+2025-10-10 05:27:37 - HikariPool-5 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:27:37 - HikariPool-5 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:27:59 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@104268ab is alive
+2025-10-10 05:28:03 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7a4cd8f4 is alive
+2025-10-10 05:28:07 - HikariPool-5 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:28:07 - HikariPool-5 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:28:34 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1a6327bb is alive
+2025-10-10 05:28:37 - HikariPool-5 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:28:37 - HikariPool-5 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:28:42 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@2b3339fd is alive
+2025-10-10 05:28:54 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@217b5414 is alive
+2025-10-10 05:28:58 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3d448abd is alive
+2025-10-10 05:28:58 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5b5e2d80 is alive
+2025-10-10 05:29:00 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7e024609 is alive
+2025-10-10 05:29:03 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3c2adc10 is alive
+2025-10-10 05:29:07 - HikariPool-5 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:29:07 - HikariPool-5 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:29:07 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1e0e750e is alive
+2025-10-10 05:29:35 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@104268ab is alive
+2025-10-10 05:29:37 - HikariPool-5 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:29:37 - HikariPool-5 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:29:40 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7a4cd8f4 is alive
+2025-10-10 05:30:07 - HikariPool-5 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:30:07 - HikariPool-5 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:30:22 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1a6327bb is alive
+2025-10-10 05:30:33 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@2b3339fd is alive
+2025-10-10 05:30:37 - HikariPool-5 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:30:37 - HikariPool-5 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:30:43 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@217b5414 is alive
+2025-10-10 05:30:48 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3d448abd is alive
+2025-10-10 05:30:51 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7e024609 is alive
+2025-10-10 05:30:54 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5b5e2d80 is alive
+2025-10-10 05:30:55 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3c2adc10 is alive
+2025-10-10 05:31:00 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1e0e750e is alive
+2025-10-10 05:31:07 - HikariPool-5 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:31:07 - HikariPool-5 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:31:11 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@104268ab is alive
+2025-10-10 05:31:18 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7a4cd8f4 is alive
+2025-10-10 05:31:37 - HikariPool-5 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:31:37 - HikariPool-5 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:32:07 - HikariPool-5 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:32:07 - HikariPool-5 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:32:10 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1a6327bb is alive
+2025-10-10 05:32:25 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@2b3339fd is alive
+2025-10-10 05:32:31 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@217b5414 is alive
+2025-10-10 05:32:37 - HikariPool-5 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:32:37 - HikariPool-5 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:32:38 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3d448abd is alive
+2025-10-10 05:32:42 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7e024609 is alive
+2025-10-10 05:32:47 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3c2adc10 is alive
+2025-10-10 05:32:47 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@104268ab is alive
+2025-10-10 05:32:50 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5b5e2d80 is alive
+2025-10-10 05:32:54 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1e0e750e is alive
+2025-10-10 05:32:56 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7a4cd8f4 is alive
+2025-10-10 05:33:07 - HikariPool-5 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:33:07 - HikariPool-5 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:33:37 - HikariPool-5 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:33:37 - HikariPool-5 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:33:58 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1a6327bb is alive
+2025-10-10 05:34:07 - HikariPool-5 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:34:07 - HikariPool-5 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:34:16 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@2b3339fd is alive
+2025-10-10 05:34:20 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@217b5414 is alive
+2025-10-10 05:34:24 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@104268ab is alive
+2025-10-10 05:34:28 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3d448abd is alive
+2025-10-10 05:34:33 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7a4cd8f4 is alive
+2025-10-10 05:34:34 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7e024609 is alive
+2025-10-10 05:34:37 - HikariPool-5 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:34:37 - HikariPool-5 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:34:38 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3c2adc10 is alive
+2025-10-10 05:34:47 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5b5e2d80 is alive
+2025-10-10 05:34:47 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1e0e750e is alive
+2025-10-10 05:35:07 - HikariPool-5 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:35:07 - HikariPool-5 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:35:37 - HikariPool-5 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:35:37 - HikariPool-5 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:35:47 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1a6327bb is alive
+2025-10-10 05:36:00 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@104268ab is alive
+2025-10-10 05:36:07 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@2b3339fd is alive
+2025-10-10 05:36:07 - HikariPool-5 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:36:07 - HikariPool-5 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:36:09 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@217b5414 is alive
+2025-10-10 05:36:11 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7a4cd8f4 is alive
+2025-10-10 05:36:18 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3d448abd is alive
+2025-10-10 05:36:25 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7e024609 is alive
+2025-10-10 05:36:30 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3c2adc10 is alive
+2025-10-10 05:36:37 - HikariPool-5 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:36:37 - HikariPool-5 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:36:40 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1e0e750e is alive
+2025-10-10 05:36:43 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5b5e2d80 is alive
+2025-10-10 05:37:07 - HikariPool-5 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:37:07 - HikariPool-5 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:37:35 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1a6327bb is alive
+2025-10-10 05:37:36 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@104268ab is alive
+2025-10-10 05:37:37 - HikariPool-5 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:37:37 - HikariPool-5 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:37:48 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7a4cd8f4 is alive
+2025-10-10 05:37:57 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@217b5414 is alive
+2025-10-10 05:37:58 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@2b3339fd is alive
+2025-10-10 05:38:07 - HikariPool-5 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:38:07 - HikariPool-5 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:38:08 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3d448abd is alive
+2025-10-10 05:38:16 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7e024609 is alive
+2025-10-10 05:38:22 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3c2adc10 is alive
+2025-10-10 05:38:33 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1e0e750e is alive
+2025-10-10 05:38:37 - HikariPool-5 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:38:37 - HikariPool-5 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:38:40 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5b5e2d80 is alive
+2025-10-10 05:39:07 - HikariPool-5 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:39:07 - HikariPool-5 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:39:12 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@104268ab is alive
+2025-10-10 05:39:23 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1a6327bb is alive
+2025-10-10 05:39:26 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7a4cd8f4 is alive
+2025-10-10 05:39:37 - HikariPool-5 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:39:37 - HikariPool-5 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:39:46 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@217b5414 is alive
+2025-10-10 05:39:49 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@2b3339fd is alive
+2025-10-10 05:39:59 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3d448abd is alive
+2025-10-10 05:40:07 - HikariPool-5 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:40:07 - HikariPool-5 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:40:07 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7e024609 is alive
+2025-10-10 05:40:14 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3c2adc10 is alive
+2025-10-10 05:40:27 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1e0e750e is alive
+2025-10-10 05:40:36 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5b5e2d80 is alive
+2025-10-10 05:40:37 - HikariPool-5 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:40:37 - HikariPool-5 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:40:48 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@104268ab is alive
+2025-10-10 05:41:04 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7a4cd8f4 is alive
+2025-10-10 05:41:07 - HikariPool-5 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:41:07 - HikariPool-5 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:41:11 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1a6327bb is alive
+2025-10-10 05:41:35 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@217b5414 is alive
+2025-10-10 05:41:37 - HikariPool-5 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:41:37 - HikariPool-5 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:41:40 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@2b3339fd is alive
+2025-10-10 05:41:49 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3d448abd is alive
+2025-10-10 05:41:59 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7e024609 is alive
+2025-10-10 05:42:05 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3c2adc10 is alive
+2025-10-10 05:42:07 - HikariPool-5 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:42:07 - HikariPool-5 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:42:20 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1e0e750e is alive
+2025-10-10 05:42:25 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@104268ab is alive
+2025-10-10 05:42:33 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5b5e2d80 is alive
+2025-10-10 05:42:37 - HikariPool-5 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:42:37 - HikariPool-5 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:42:41 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7a4cd8f4 is alive
+2025-10-10 05:43:00 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1a6327bb is alive
+2025-10-10 05:43:07 - HikariPool-5 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:43:07 - HikariPool-5 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:43:23 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@217b5414 is alive
+2025-10-10 05:43:31 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@2b3339fd is alive
+2025-10-10 05:43:37 - HikariPool-5 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:43:37 - HikariPool-5 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:43:39 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3d448abd is alive
+2025-10-10 05:43:50 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7e024609 is alive
+2025-10-10 05:43:57 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3c2adc10 is alive
+2025-10-10 05:44:01 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@104268ab is alive
+2025-10-10 05:44:07 - HikariPool-5 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:44:07 - HikariPool-5 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:44:13 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1e0e750e is alive
+2025-10-10 05:44:19 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7a4cd8f4 is alive
+2025-10-10 05:44:29 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5b5e2d80 is alive
+2025-10-10 05:44:37 - HikariPool-5 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:44:37 - HikariPool-5 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:44:48 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1a6327bb is alive
+2025-10-10 05:45:07 - HikariPool-5 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:45:07 - HikariPool-5 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:45:12 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@217b5414 is alive
+2025-10-10 05:45:22 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@2b3339fd is alive
+2025-10-10 05:45:29 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3d448abd is alive
+2025-10-10 05:45:37 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@104268ab is alive
+2025-10-10 05:45:37 - HikariPool-5 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:45:37 - HikariPool-5 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:45:41 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7e024609 is alive
+2025-10-10 05:45:49 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3c2adc10 is alive
+2025-10-10 05:45:57 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7a4cd8f4 is alive
+2025-10-10 05:46:06 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1e0e750e is alive
+2025-10-10 05:46:07 - HikariPool-5 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:46:07 - HikariPool-5 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:46:25 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5b5e2d80 is alive
+2025-10-10 05:46:36 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1a6327bb is alive
+2025-10-10 05:46:37 - HikariPool-5 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:46:37 - HikariPool-5 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:46:46 - HikariPool-5 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@217b5414: (connection has passed maxLifetime)
+2025-10-10 05:46:46 - HikariPool-5 - Attempting to create/setup new connection (88fc9852-ccda-4a78-a93e-e621755d0a1d)
+2025-10-10 05:46:47 - HikariPool-5 - Established new connection (88fc9852-ccda-4a78-a93e-e621755d0a1d)
+2025-10-10 05:46:47 - HikariPool-5 - Added connection com.mysql.cj.jdbc.ConnectionImpl@55c3afb3
+2025-10-10 05:47:07 - HikariPool-5 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:47:07 - HikariPool-5 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:47:08 - HikariPool-5 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@1a6327bb: (connection has passed maxLifetime)
+2025-10-10 05:47:08 - HikariPool-5 - Attempting to create/setup new connection (31698469-1d06-41b4-917d-01d8ad2e900a)
+2025-10-10 05:47:08 - HikariPool-5 - Established new connection (31698469-1d06-41b4-917d-01d8ad2e900a)
+2025-10-10 05:47:08 - HikariPool-5 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3a00b59c
+2025-10-10 05:47:13 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@2b3339fd is alive
+2025-10-10 05:47:13 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@104268ab is alive
+2025-10-10 05:47:19 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3d448abd is alive
+2025-10-10 05:47:23 - HikariPool-5 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@104268ab: (connection has passed maxLifetime)
+2025-10-10 05:47:23 - HikariPool-5 - Attempting to create/setup new connection (4159be90-ed4b-4868-9218-9b2d3d14e401)
+2025-10-10 05:47:23 - HikariPool-5 - Established new connection (4159be90-ed4b-4868-9218-9b2d3d14e401)
+2025-10-10 05:47:23 - HikariPool-5 - Added connection com.mysql.cj.jdbc.ConnectionImpl@31272524
+2025-10-10 05:47:26 - HikariPool-5 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@5b5e2d80: (connection has passed maxLifetime)
+2025-10-10 05:47:26 - HikariPool-5 - Attempting to create/setup new connection (51d851d1-c7b8-4742-98c0-fcc607366b80)
+2025-10-10 05:47:26 - HikariPool-5 - Established new connection (51d851d1-c7b8-4742-98c0-fcc607366b80)
+2025-10-10 05:47:26 - HikariPool-5 - Added connection com.mysql.cj.jdbc.ConnectionImpl@701a2f1f
+2025-10-10 05:47:32 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7e024609 is alive
+2025-10-10 05:47:34 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7a4cd8f4 is alive
+2025-10-10 05:47:37 - HikariPool-5 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:47:37 - HikariPool-5 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:47:41 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3c2adc10 is alive
+2025-10-10 05:47:42 - HikariPool-5 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@3c2adc10: (connection has passed maxLifetime)
+2025-10-10 05:47:42 - HikariPool-5 - Attempting to create/setup new connection (beb1b8f1-6c6f-4f43-b764-543ba4e02180)
+2025-10-10 05:47:42 - HikariPool-5 - Established new connection (beb1b8f1-6c6f-4f43-b764-543ba4e02180)
+2025-10-10 05:47:42 - HikariPool-5 - Added connection com.mysql.cj.jdbc.ConnectionImpl@35db3e51
+2025-10-10 05:48:00 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1e0e750e is alive
+2025-10-10 05:48:07 - HikariPool-5 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:48:07 - HikariPool-5 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:48:37 - HikariPool-5 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:48:37 - HikariPool-5 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:48:38 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@55c3afb3 is alive
+2025-10-10 05:48:52 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3a00b59c is alive
+2025-10-10 05:49:04 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@2b3339fd is alive
+2025-10-10 05:49:06 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@31272524 is alive
+2025-10-10 05:49:07 - HikariPool-5 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:49:07 - HikariPool-5 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:49:10 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3d448abd is alive
+2025-10-10 05:49:12 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7a4cd8f4 is alive
+2025-10-10 05:49:17 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@701a2f1f is alive
+2025-10-10 05:49:24 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7e024609 is alive
+2025-10-10 05:49:27 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@35db3e51 is alive
+2025-10-10 05:49:37 - HikariPool-5 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:49:37 - HikariPool-5 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:49:53 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1e0e750e is alive
+2025-10-10 05:50:06 - HikariPool-5 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@2b3339fd: (connection has passed maxLifetime)
+2025-10-10 05:50:06 - HikariPool-5 - Attempting to create/setup new connection (b20cd3e1-c02f-4f78-b75c-7916d3177235)
+2025-10-10 05:50:06 - HikariPool-5 - Established new connection (b20cd3e1-c02f-4f78-b75c-7916d3177235)
+2025-10-10 05:50:06 - HikariPool-5 - Added connection com.mysql.cj.jdbc.ConnectionImpl@13694668
+2025-10-10 05:50:07 - HikariPool-5 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:50:07 - HikariPool-5 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:50:17 - HikariPool-5 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@1e0e750e: (connection has passed maxLifetime)
+2025-10-10 05:50:17 - HikariPool-5 - Attempting to create/setup new connection (79433d9a-244d-4117-b013-358566689663)
+2025-10-10 05:50:17 - HikariPool-5 - Established new connection (79433d9a-244d-4117-b013-358566689663)
+2025-10-10 05:50:17 - HikariPool-5 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6e729b5
+2025-10-10 05:50:30 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@55c3afb3 is alive
+2025-10-10 05:50:36 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3a00b59c is alive
+2025-10-10 05:50:37 - HikariPool-5 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:50:37 - HikariPool-5 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:50:49 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@31272524 is alive
+2025-10-10 05:50:50 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7a4cd8f4 is alive
+2025-10-10 05:51:00 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3d448abd is alive
+2025-10-10 05:51:08 - HikariPool-5 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:51:08 - HikariPool-5 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:51:08 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@701a2f1f is alive
+2025-10-10 05:51:12 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@35db3e51 is alive
+2025-10-10 05:51:15 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7e024609 is alive
+2025-10-10 05:51:25 - HikariPool-5 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@7a4cd8f4: (connection has passed maxLifetime)
+2025-10-10 05:51:25 - HikariPool-5 - Attempting to create/setup new connection (d6add70a-7a8a-438d-8ea6-e96031c6cf19)
+2025-10-10 05:51:25 - HikariPool-5 - Established new connection (d6add70a-7a8a-438d-8ea6-e96031c6cf19)
+2025-10-10 05:51:25 - HikariPool-5 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4fdeaf3d
+2025-10-10 05:51:38 - HikariPool-5 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:51:38 - HikariPool-5 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:51:57 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@13694668 is alive
+2025-10-10 05:52:06 - HikariPool-5 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@3d448abd: (connection has passed maxLifetime)
+2025-10-10 05:52:06 - HikariPool-5 - Attempting to create/setup new connection (83e31c3a-e362-48e8-b05c-54a8d03535a9)
+2025-10-10 05:52:06 - HikariPool-5 - Established new connection (83e31c3a-e362-48e8-b05c-54a8d03535a9)
+2025-10-10 05:52:06 - HikariPool-5 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2ff561ac
+2025-10-10 05:52:08 - HikariPool-5 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:52:08 - HikariPool-5 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:52:08 - HikariPool-5 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@7e024609: (connection has passed maxLifetime)
+2025-10-10 05:52:08 - HikariPool-5 - Attempting to create/setup new connection (55f4ee80-292a-48e5-8c6b-4ae33cd64b7a)
+2025-10-10 05:52:08 - HikariPool-5 - Established new connection (55f4ee80-292a-48e5-8c6b-4ae33cd64b7a)
+2025-10-10 05:52:08 - HikariPool-5 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6ec86b97
+2025-10-10 05:52:08 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6e729b5 is alive
+2025-10-10 05:52:20 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3a00b59c is alive
+2025-10-10 05:52:22 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@55c3afb3 is alive
+2025-10-10 05:52:32 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@31272524 is alive
+2025-10-10 05:52:38 - HikariPool-5 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:52:38 - HikariPool-5 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:52:57 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@35db3e51 is alive
+2025-10-10 05:52:58 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@701a2f1f is alive
+2025-10-10 05:53:08 - HikariPool-5 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:53:08 - HikariPool-5 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:53:11 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@4fdeaf3d is alive
+2025-10-10 05:53:38 - HikariPool-5 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:53:38 - HikariPool-5 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:53:48 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@13694668 is alive
+2025-10-10 05:53:57 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@2ff561ac is alive
+2025-10-10 05:54:00 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6e729b5 is alive
+2025-10-10 05:54:03 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6ec86b97 is alive
+2025-10-10 05:54:04 - HikariPool-5 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3a00b59c is alive
+2025-10-10 05:54:08 - HikariPool-5 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:54:08 - HikariPool-5 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:54:12 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-10-10 05:54:12 - Graceful shutdown complete
+2025-10-10 05:54:12 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-10-10 05:54:12 - HikariPool-5 - Shutdown initiated...
+2025-10-10 05:54:12 - HikariPool-5 - Before shutdown stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:54:12 - HikariPool-5 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@55c3afb3: (connection evicted)
+2025-10-10 05:54:12 - HikariPool-5 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@3a00b59c: (connection evicted)
+2025-10-10 05:54:12 - HikariPool-5 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@31272524: (connection evicted)
+2025-10-10 05:54:12 - HikariPool-5 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@701a2f1f: (connection evicted)
+2025-10-10 05:54:12 - HikariPool-5 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@35db3e51: (connection evicted)
+2025-10-10 05:54:12 - HikariPool-5 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@13694668: (connection evicted)
+2025-10-10 05:54:12 - HikariPool-5 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@6e729b5: (connection evicted)
+2025-10-10 05:54:12 - HikariPool-5 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@4fdeaf3d: (connection evicted)
+2025-10-10 05:54:12 - HikariPool-5 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@2ff561ac: (connection evicted)
+2025-10-10 05:54:12 - HikariPool-5 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@6ec86b97: (connection evicted)
+2025-10-10 05:54:12 - HikariPool-5 - After  shutdown stats (total=0/10, idle=0/10, active=0, waiting=0)
+2025-10-10 05:54:12 - HikariPool-5 - Shutdown completed.
+2025-10-10 05:54:25 - Starting Bankmanagement2ApiApplication using Java 21.0.7 with PID 20040 (D:\SpringBotPrac\bankmanagement2-api\build\classes\java\main started by saini in D:\SpringBotPrac\bankmanagement2-api)
+2025-10-10 05:54:25 - Running with Spring Boot v3.5.6, Spring v6.2.11
+2025-10-10 05:54:25 - The following 1 profile is active: "sit"
+2025-10-10 05:54:25 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-10-10 05:54:25 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-10-10 05:54:29 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-10-10 05:54:29 - Finished Spring Data repository scanning in 149 ms. Found 5 JPA repository interfaces.
+2025-10-10 05:54:30 - Tomcat initialized with port 8080 (http)
+2025-10-10 05:54:30 - Starting service [Tomcat]
+2025-10-10 05:54:30 - Starting Servlet engine: [Apache Tomcat/10.1.46]
+2025-10-10 05:54:30 - Initializing Spring embedded WebApplicationContext
+2025-10-10 05:54:30 - Root WebApplicationContext: initialization completed in 5061 ms
+2025-10-10 05:54:31 - Class com.mysql.cj.jdbc.Driver found in Thread context class loader org.springframework.boot.devtools.restart.classloader.RestartClassLoader@60a4b870
+2025-10-10 05:54:31 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-10-10 05:54:31 - HHH000412: Hibernate ORM core version 6.6.29.Final
+2025-10-10 05:54:31 - HHH000026: Second-level cache disabled
+2025-10-10 05:54:32 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-10-10 05:54:32 - HikariPool-1 - configuration:
+2025-10-10 05:54:32 - allowPoolSuspension.............false
+2025-10-10 05:54:32 - autoCommit......................true
+2025-10-10 05:54:32 - catalog.........................none
+2025-10-10 05:54:32 - connectionInitSql...............none
+2025-10-10 05:54:32 - connectionTestQuery.............none
+2025-10-10 05:54:32 - connectionTimeout...............30000
+2025-10-10 05:54:32 - credentials.....................com.zaxxer.hikari.util.Credentials@45aa5bad
+2025-10-10 05:54:32 - dataSource......................none
+2025-10-10 05:54:32 - dataSourceClassName.............none
+2025-10-10 05:54:32 - dataSourceJNDI..................none
+2025-10-10 05:54:32 - dataSourceProperties............{password=<masked>}
+2025-10-10 05:54:32 - driverClassName................."com.mysql.cj.jdbc.Driver"
+2025-10-10 05:54:32 - exceptionOverride...............none
+2025-10-10 05:54:32 - exceptionOverrideClassName......none
+2025-10-10 05:54:32 - healthCheckProperties...........{}
+2025-10-10 05:54:32 - healthCheckRegistry.............none
+2025-10-10 05:54:32 - idleTimeout.....................600000
+2025-10-10 05:54:32 - initializationFailTimeout.......1
+2025-10-10 05:54:32 - isolateInternalQueries..........false
+2025-10-10 05:54:32 - jdbcUrl.........................jdbc:mysql://localhost:3306/newbankmanagement
+2025-10-10 05:54:32 - keepaliveTime...................120000
+2025-10-10 05:54:32 - leakDetectionThreshold..........0
+2025-10-10 05:54:32 - maxLifetime.....................1800000
+2025-10-10 05:54:32 - maximumPoolSize.................10
+2025-10-10 05:54:32 - metricRegistry..................none
+2025-10-10 05:54:32 - metricsTrackerFactory...........none
+2025-10-10 05:54:32 - minimumIdle.....................10
+2025-10-10 05:54:32 - password........................<masked>
+2025-10-10 05:54:32 - poolName........................"HikariPool-1"
+2025-10-10 05:54:32 - readOnly........................false
+2025-10-10 05:54:32 - registerMbeans..................false
+2025-10-10 05:54:32 - scheduledExecutor...............none
+2025-10-10 05:54:32 - schema..........................none
+2025-10-10 05:54:32 - threadFactory...................internal
+2025-10-10 05:54:32 - transactionIsolation............default
+2025-10-10 05:54:32 - username........................"root"
+2025-10-10 05:54:32 - validationTimeout...............5000
+2025-10-10 05:54:32 - HikariPool-1 - Starting...
+2025-10-10 05:54:32 - HikariPool-1 - Attempting to create/setup new connection (c12339de-267d-4f2c-ad24-e03a0bcb28c7)
+2025-10-10 05:54:33 - HikariPool-1 - Established new connection (c12339de-267d-4f2c-ad24-e03a0bcb28c7)
+2025-10-10 05:54:33 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@709c24ca
+2025-10-10 05:54:33 - HikariPool-1 - Start completed.
+2025-10-10 05:54:33 - HikariPool-1 - Pool stats (total=1/10, idle=0/10, active=1, waiting=0)
+2025-10-10 05:54:33 - HikariPool-1 - Attempting to create/setup new connection (24ab164d-55c7-42f5-a4bf-edb406ba7ce8)
+2025-10-10 05:54:33 - HikariPool-1 - Established new connection (24ab164d-55c7-42f5-a4bf-edb406ba7ce8)
+2025-10-10 05:54:33 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7a484d27
+2025-10-10 05:54:33 - HikariPool-1 - After adding stats (total=2/10, idle=1/10, active=1, waiting=0)
+2025-10-10 05:54:33 - HikariPool-1 - Attempting to create/setup new connection (1e4941de-e878-4c53-b297-a2c6bc282e65)
+2025-10-10 05:54:33 - HikariPool-1 - Established new connection (1e4941de-e878-4c53-b297-a2c6bc282e65)
+2025-10-10 05:54:33 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3b75471c
+2025-10-10 05:54:34 - HikariPool-1 - After adding stats (total=3/10, idle=2/10, active=1, waiting=0)
+2025-10-10 05:54:34 - HikariPool-1 - Attempting to create/setup new connection (c5d74584-eb1e-4325-a1d2-d7a07f6744bf)
+2025-10-10 05:54:34 - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 8.4.4
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-10-10 05:54:34 - HikariPool-1 - Established new connection (c5d74584-eb1e-4325-a1d2-d7a07f6744bf)
+2025-10-10 05:54:34 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@a047e38
+2025-10-10 05:54:34 - HikariPool-1 - After adding stats (total=4/10, idle=4/10, active=0, waiting=0)
+2025-10-10 05:54:34 - HikariPool-1 - Attempting to create/setup new connection (0ade96e0-9fe3-40a0-bfed-ff1883e716e0)
+2025-10-10 05:54:34 - HikariPool-1 - Established new connection (0ade96e0-9fe3-40a0-bfed-ff1883e716e0)
+2025-10-10 05:54:34 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5b5ab853
+2025-10-10 05:54:34 - HikariPool-1 - After adding stats (total=5/10, idle=5/10, active=0, waiting=0)
+2025-10-10 05:54:34 - HikariPool-1 - Attempting to create/setup new connection (96e147e1-64a7-4f1c-aa3b-3e13d76cfae5)
+2025-10-10 05:54:34 - HikariPool-1 - Established new connection (96e147e1-64a7-4f1c-aa3b-3e13d76cfae5)
+2025-10-10 05:54:34 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5f1407a8
+2025-10-10 05:54:34 - HikariPool-1 - After adding stats (total=6/10, idle=6/10, active=0, waiting=0)
+2025-10-10 05:54:34 - HikariPool-1 - Attempting to create/setup new connection (6ebc9050-8364-4347-9cc6-54f6e0be74af)
+2025-10-10 05:54:34 - HikariPool-1 - Established new connection (6ebc9050-8364-4347-9cc6-54f6e0be74af)
+2025-10-10 05:54:34 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@14df199b
+2025-10-10 05:54:34 - HikariPool-1 - After adding stats (total=7/10, idle=7/10, active=0, waiting=0)
+2025-10-10 05:54:34 - HikariPool-1 - Attempting to create/setup new connection (4c053b04-ac34-40df-b746-876638c38be6)
+2025-10-10 05:54:34 - HikariPool-1 - Established new connection (4c053b04-ac34-40df-b746-876638c38be6)
+2025-10-10 05:54:34 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2f60bfff
+2025-10-10 05:54:34 - HikariPool-1 - After adding stats (total=8/10, idle=8/10, active=0, waiting=0)
+2025-10-10 05:54:34 - HikariPool-1 - Attempting to create/setup new connection (748f28c0-8843-4194-afcc-41f1302364e6)
+2025-10-10 05:54:34 - HikariPool-1 - Established new connection (748f28c0-8843-4194-afcc-41f1302364e6)
+2025-10-10 05:54:34 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@28e62b2f
+2025-10-10 05:54:34 - HikariPool-1 - After adding stats (total=9/10, idle=9/10, active=0, waiting=0)
+2025-10-10 05:54:34 - HikariPool-1 - Attempting to create/setup new connection (c18768ed-1de0-45f2-805a-fb5aa37d0000)
+2025-10-10 05:54:34 - HikariPool-1 - Established new connection (c18768ed-1de0-45f2-805a-fb5aa37d0000)
+2025-10-10 05:54:34 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@645b6aab
+2025-10-10 05:54:34 - HikariPool-1 - After adding stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:54:34 - HikariPool-1 - Connection not added, stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:54:36 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-10-10 05:54:37 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-10-10 05:54:38 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-10-10 05:54:38 - Global AuthenticationManager configured with UserDetailsService bean with name userDetailsManager
+2025-10-10 05:54:39 - Exposing 14 endpoints beneath base path '/actuator'
+2025-10-10 05:54:41 - LiveReload server is running on port 35729
+2025-10-10 05:54:41 - Tomcat started on port 8080 (http) with context path '/'
+2025-10-10 05:54:41 - Started Bankmanagement2ApiApplication in 18.906 seconds (process running for 21.214)
+2025-10-10 05:54:42 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-10-10 05:54:42 - Initializing Servlet 'dispatcherServlet'
+2025-10-10 05:54:42 - Completed initialization in 8 ms
+2025-10-10 05:55:03 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:55:03 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:55:33 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:55:33 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:56:03 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:56:03 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:56:10 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3b75471c is alive
+2025-10-10 05:56:11 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5f1407a8 is alive
+2025-10-10 05:56:12 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7a484d27 is alive
+2025-10-10 05:56:14 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@2f60bfff is alive
+2025-10-10 05:56:17 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5b5ab853 is alive
+2025-10-10 05:56:19 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@14df199b is alive
+2025-10-10 05:56:19 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@709c24ca is alive
+2025-10-10 05:56:30 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@645b6aab is alive
+2025-10-10 05:56:30 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@28e62b2f is alive
+2025-10-10 05:56:33 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@a047e38 is alive
+2025-10-10 05:56:33 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:56:33 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:57:03 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:57:03 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:57:33 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:57:33 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:57:46 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3b75471c is alive
+2025-10-10 05:57:49 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5f1407a8 is alive
+2025-10-10 05:57:51 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7a484d27 is alive
+2025-10-10 05:57:54 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@2f60bfff is alive
+2025-10-10 05:57:59 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5b5ab853 is alive
+2025-10-10 05:58:03 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:58:03 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:58:04 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@14df199b is alive
+2025-10-10 05:58:05 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@709c24ca is alive
+2025-10-10 05:58:25 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@645b6aab is alive
+2025-10-10 05:58:26 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@28e62b2f is alive
+2025-10-10 05:58:32 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@a047e38 is alive
+2025-10-10 05:58:33 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:58:33 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:59:03 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:59:03 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:59:22 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3b75471c is alive
+2025-10-10 05:59:26 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5f1407a8 is alive
+2025-10-10 05:59:29 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7a484d27 is alive
+2025-10-10 05:59:33 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@2f60bfff is alive
+2025-10-10 05:59:33 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 05:59:33 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 05:59:42 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5b5ab853 is alive
+2025-10-10 05:59:49 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@14df199b is alive
+2025-10-10 05:59:51 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@709c24ca is alive
+2025-10-10 06:00:04 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:00:04 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:00:21 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@645b6aab is alive
+2025-10-10 06:00:22 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@28e62b2f is alive
+2025-10-10 06:00:31 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@a047e38 is alive
+2025-10-10 06:00:34 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:00:34 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:00:58 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3b75471c is alive
+2025-10-10 06:01:04 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:01:04 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:01:04 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5f1407a8 is alive
+2025-10-10 06:01:08 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7a484d27 is alive
+2025-10-10 06:01:13 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@2f60bfff is alive
+2025-10-10 06:01:25 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5b5ab853 is alive
+2025-10-10 06:01:34 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:01:34 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:01:34 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@14df199b is alive
+2025-10-10 06:01:37 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@709c24ca is alive
+2025-10-10 06:02:04 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:02:04 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:02:16 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@645b6aab is alive
+2025-10-10 06:02:18 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@28e62b2f is alive
+2025-10-10 06:02:31 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@a047e38 is alive
+2025-10-10 06:02:34 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:02:34 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:02:34 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3b75471c is alive
+2025-10-10 06:02:41 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5f1407a8 is alive
+2025-10-10 06:02:46 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7a484d27 is alive
+2025-10-10 06:02:53 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@2f60bfff is alive
+2025-10-10 06:03:04 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:03:04 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:03:08 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5b5ab853 is alive
+2025-10-10 06:03:19 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@14df199b is alive
+2025-10-10 06:03:23 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@709c24ca is alive
+2025-10-10 06:03:34 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:03:34 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:04:04 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:04:04 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:04:10 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3b75471c is alive
+2025-10-10 06:04:12 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@645b6aab is alive
+2025-10-10 06:04:14 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@28e62b2f is alive
+2025-10-10 06:04:19 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5f1407a8 is alive
+2025-10-10 06:04:25 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7a484d27 is alive
+2025-10-10 06:04:30 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@a047e38 is alive
+2025-10-10 06:04:33 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@2f60bfff is alive
+2025-10-10 06:04:34 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:04:34 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:04:51 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5b5ab853 is alive
+2025-10-10 06:05:04 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@14df199b is alive
+2025-10-10 06:05:04 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:05:04 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:05:09 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@709c24ca is alive
+2025-10-10 06:05:34 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:05:34 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:05:46 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3b75471c is alive
+2025-10-10 06:05:56 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5f1407a8 is alive
+2025-10-10 06:06:03 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7a484d27 is alive
+2025-10-10 06:06:04 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:06:04 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:06:08 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@645b6aab is alive
+2025-10-10 06:06:10 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@28e62b2f is alive
+2025-10-10 06:06:13 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@2f60bfff is alive
+2025-10-10 06:06:29 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@a047e38 is alive
+2025-10-10 06:06:34 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:06:34 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:06:34 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5b5ab853 is alive
+2025-10-10 06:06:49 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@14df199b is alive
+2025-10-10 06:06:55 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@709c24ca is alive
+2025-10-10 06:07:04 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:07:04 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:07:22 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3b75471c is alive
+2025-10-10 06:07:34 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5f1407a8 is alive
+2025-10-10 06:07:34 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:07:34 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:07:42 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7a484d27 is alive
+2025-10-10 06:07:52 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@2f60bfff is alive
+2025-10-10 06:08:03 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@645b6aab is alive
+2025-10-10 06:08:04 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:08:04 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:08:07 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@28e62b2f is alive
+2025-10-10 06:08:17 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5b5ab853 is alive
+2025-10-10 06:08:29 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@a047e38 is alive
+2025-10-10 06:08:33 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@14df199b is alive
+2025-10-10 06:08:34 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:08:34 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:08:41 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@709c24ca is alive
+2025-10-10 06:08:58 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3b75471c is alive
+2025-10-10 06:09:04 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:09:04 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:09:11 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5f1407a8 is alive
+2025-10-10 06:09:20 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7a484d27 is alive
+2025-10-10 06:09:33 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@2f60bfff is alive
+2025-10-10 06:09:34 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:09:34 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:09:59 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@645b6aab is alive
+2025-10-10 06:10:00 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5b5ab853 is alive
+2025-10-10 06:10:03 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@28e62b2f is alive
+2025-10-10 06:10:04 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:10:04 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:10:18 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@14df199b is alive
+2025-10-10 06:10:27 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@709c24ca is alive
+2025-10-10 06:10:28 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@a047e38 is alive
+2025-10-10 06:10:34 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:10:34 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:10:34 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3b75471c is alive
+2025-10-10 06:10:49 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5f1407a8 is alive
+2025-10-10 06:10:59 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7a484d27 is alive
+2025-10-10 06:11:04 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:11:04 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:11:12 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@2f60bfff is alive
+2025-10-10 06:11:34 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:11:34 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:11:43 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5b5ab853 is alive
+2025-10-10 06:11:54 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@645b6aab is alive
+2025-10-10 06:11:59 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@28e62b2f is alive
+2025-10-10 06:12:03 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@14df199b is alive
+2025-10-10 06:12:04 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:12:04 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:12:10 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3b75471c is alive
+2025-10-10 06:12:13 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@709c24ca is alive
+2025-10-10 06:12:26 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5f1407a8 is alive
+2025-10-10 06:12:27 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@a047e38 is alive
+2025-10-10 06:12:34 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:12:34 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:12:38 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7a484d27 is alive
+2025-10-10 06:12:52 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@2f60bfff is alive
+2025-10-10 06:13:04 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:13:04 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:13:25 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5b5ab853 is alive
+2025-10-10 06:13:34 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:13:34 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:13:46 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3b75471c is alive
+2025-10-10 06:13:48 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@14df199b is alive
+2025-10-10 06:13:50 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@645b6aab is alive
+2025-10-10 06:13:55 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@28e62b2f is alive
+2025-10-10 06:13:59 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@709c24ca is alive
+2025-10-10 06:14:04 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5f1407a8 is alive
+2025-10-10 06:14:04 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:14:04 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:14:16 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7a484d27 is alive
+2025-10-10 06:14:27 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@a047e38 is alive
+2025-10-10 06:14:32 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@2f60bfff is alive
+2025-10-10 06:14:34 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:14:34 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:15:04 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:15:04 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:15:08 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5b5ab853 is alive
+2025-10-10 06:15:23 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3b75471c is alive
+2025-10-10 06:15:33 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@14df199b is alive
+2025-10-10 06:15:34 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:15:34 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:15:41 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5f1407a8 is alive
+2025-10-10 06:15:45 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@709c24ca is alive
+2025-10-10 06:15:45 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@645b6aab is alive
+2025-10-10 06:15:51 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@28e62b2f is alive
+2025-10-10 06:15:55 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7a484d27 is alive
+2025-10-10 06:16:04 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:16:04 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:16:12 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@2f60bfff is alive
+2025-10-10 06:16:26 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@a047e38 is alive
+2025-10-10 06:16:34 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:16:34 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:16:52 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5b5ab853 is alive
+2025-10-10 06:16:59 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3b75471c is alive
+2025-10-10 06:17:04 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:17:04 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:17:18 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@14df199b is alive
+2025-10-10 06:17:19 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5f1407a8 is alive
+2025-10-10 06:17:31 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@709c24ca is alive
+2025-10-10 06:17:33 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7a484d27 is alive
+2025-10-10 06:17:34 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:17:34 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:17:41 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@645b6aab is alive
+2025-10-10 06:17:46 - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@7a484d27: (connection has passed maxLifetime)
+2025-10-10 06:17:46 - HikariPool-1 - Attempting to create/setup new connection (3a98cad6-15df-476e-801b-30cdf4e11e65)
+2025-10-10 06:17:46 - HikariPool-1 - Established new connection (3a98cad6-15df-476e-801b-30cdf4e11e65)
+2025-10-10 06:17:46 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@766c8ac4
+2025-10-10 06:17:47 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@28e62b2f is alive
+2025-10-10 06:17:52 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@2f60bfff is alive
+2025-10-10 06:18:04 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:18:04 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:18:19 - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@3b75471c: (connection has passed maxLifetime)
+2025-10-10 06:18:19 - HikariPool-1 - Attempting to create/setup new connection (9cef70d6-8f19-4fe3-81d8-614c5cc84b98)
+2025-10-10 06:18:20 - HikariPool-1 - Established new connection (9cef70d6-8f19-4fe3-81d8-614c5cc84b98)
+2025-10-10 06:18:20 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@344ffb91
+2025-10-10 06:18:25 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@a047e38 is alive
+2025-10-10 06:18:34 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:18:34 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:18:35 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5b5ab853 is alive
+2025-10-10 06:18:39 - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@5f1407a8: (connection has passed maxLifetime)
+2025-10-10 06:18:39 - HikariPool-1 - Attempting to create/setup new connection (263a5893-3840-4a66-bd14-4a849d3de3ff)
+2025-10-10 06:18:39 - HikariPool-1 - Established new connection (263a5893-3840-4a66-bd14-4a849d3de3ff)
+2025-10-10 06:18:39 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@64fba548
+2025-10-10 06:19:03 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@14df199b is alive
+2025-10-10 06:19:04 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:19:04 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:19:17 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@709c24ca is alive
+2025-10-10 06:19:23 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@766c8ac4 is alive
+2025-10-10 06:19:32 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@2f60bfff is alive
+2025-10-10 06:19:34 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:19:34 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:19:37 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@645b6aab is alive
+2025-10-10 06:19:43 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@28e62b2f is alive
+2025-10-10 06:20:04 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@344ffb91 is alive
+2025-10-10 06:20:04 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:20:04 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:20:17 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5b5ab853 is alive
+2025-10-10 06:20:24 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@a047e38 is alive
+2025-10-10 06:20:30 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@64fba548 is alive
+2025-10-10 06:20:34 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:20:34 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:20:48 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@14df199b is alive
+2025-10-10 06:20:59 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@766c8ac4 is alive
+2025-10-10 06:21:03 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@709c24ca is alive
+2025-10-10 06:21:04 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:21:04 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:21:11 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@2f60bfff is alive
+2025-10-10 06:21:32 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@645b6aab is alive
+2025-10-10 06:21:34 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:21:34 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:21:39 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@28e62b2f is alive
+2025-10-10 06:21:43 - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@645b6aab: (connection has passed maxLifetime)
+2025-10-10 06:21:43 - HikariPool-1 - Attempting to create/setup new connection (5b3f50f1-7825-4c3d-b8e7-5d6920b29b2b)
+2025-10-10 06:21:43 - HikariPool-1 - Established new connection (5b3f50f1-7825-4c3d-b8e7-5d6920b29b2b)
+2025-10-10 06:21:43 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3d981979
+2025-10-10 06:21:48 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@344ffb91 is alive
+2025-10-10 06:22:00 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5b5ab853 is alive
+2025-10-10 06:22:04 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:22:04 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:22:05 - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@2f60bfff: (connection has passed maxLifetime)
+2025-10-10 06:22:05 - HikariPool-1 - Attempting to create/setup new connection (fa0384e3-0003-45d9-9ec5-49a98f961c62)
+2025-10-10 06:22:05 - HikariPool-1 - Established new connection (fa0384e3-0003-45d9-9ec5-49a98f961c62)
+2025-10-10 06:22:05 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@675d3595
+2025-10-10 06:22:21 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@64fba548 is alive
+2025-10-10 06:22:24 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@a047e38 is alive
+2025-10-10 06:22:33 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@14df199b is alive
+2025-10-10 06:22:34 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:22:34 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:22:36 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@766c8ac4 is alive
+2025-10-10 06:22:49 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@709c24ca is alive
+2025-10-10 06:23:04 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:23:04 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:23:16 - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@a047e38: (connection has passed maxLifetime)
+2025-10-10 06:23:16 - HikariPool-1 - Attempting to create/setup new connection (e2542342-2b92-4344-b2a9-0aec626c2010)
+2025-10-10 06:23:16 - HikariPool-1 - Established new connection (e2542342-2b92-4344-b2a9-0aec626c2010)
+2025-10-10 06:23:16 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7c4abed7
+2025-10-10 06:23:31 - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@5b5ab853: (connection has passed maxLifetime)
+2025-10-10 06:23:31 - HikariPool-1 - Attempting to create/setup new connection (daec44d5-4f44-4e79-88fc-aed62641a3a8)
+2025-10-10 06:23:31 - HikariPool-1 - Established new connection (daec44d5-4f44-4e79-88fc-aed62641a3a8)
+2025-10-10 06:23:31 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4743062f
+2025-10-10 06:23:32 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@344ffb91 is alive
+2025-10-10 06:23:34 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:23:34 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:23:35 - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@14df199b: (connection has passed maxLifetime)
+2025-10-10 06:23:35 - HikariPool-1 - Attempting to create/setup new connection (2a66ac95-a8cd-4d47-9b4c-40571e66315a)
+2025-10-10 06:23:35 - HikariPool-1 - Established new connection (2a66ac95-a8cd-4d47-9b4c-40571e66315a)
+2025-10-10 06:23:35 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@67e0c14
+2025-10-10 06:23:35 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@28e62b2f is alive
+2025-10-10 06:23:36 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3d981979 is alive
+2025-10-10 06:23:52 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@675d3595 is alive
+2025-10-10 06:24:04 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:24:04 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:24:08 - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@28e62b2f: (connection has passed maxLifetime)
+2025-10-10 06:24:08 - HikariPool-1 - Attempting to create/setup new connection (9ee9f4ee-6359-4620-b963-aaf8dfcec499)
+2025-10-10 06:24:08 - HikariPool-1 - Established new connection (9ee9f4ee-6359-4620-b963-aaf8dfcec499)
+2025-10-10 06:24:08 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@36eabd64
+2025-10-10 06:24:13 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@64fba548 is alive
+2025-10-10 06:24:13 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@766c8ac4 is alive
+2025-10-10 06:24:34 - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@709c24ca: (connection has passed maxLifetime)
+2025-10-10 06:24:34 - HikariPool-1 - Attempting to create/setup new connection (80424aff-b733-4bbf-b01e-0c80290d5c41)
+2025-10-10 06:24:34 - HikariPool-1 - Established new connection (80424aff-b733-4bbf-b01e-0c80290d5c41)
+2025-10-10 06:24:34 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2b4e8d5
+2025-10-10 06:24:34 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:24:34 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:24:54 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7c4abed7 is alive
+2025-10-10 06:25:04 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:25:04 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:25:11 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@67e0c14 is alive
+2025-10-10 06:25:16 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@344ffb91 is alive
+2025-10-10 06:25:20 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@4743062f is alive
+2025-10-10 06:25:29 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3d981979 is alive
+2025-10-10 06:25:34 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:25:34 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:25:39 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@675d3595 is alive
+2025-10-10 06:25:49 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@766c8ac4 is alive
+2025-10-10 06:26:04 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@64fba548 is alive
+2025-10-10 06:26:04 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:26:04 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:26:05 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@36eabd64 is alive
+2025-10-10 06:26:20 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@2b4e8d5 is alive
+2025-10-10 06:26:31 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7c4abed7 is alive
+2025-10-10 06:26:34 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:26:34 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:26:47 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@67e0c14 is alive
+2025-10-10 06:27:00 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@344ffb91 is alive
+2025-10-10 06:27:04 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:27:04 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:27:10 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@4743062f is alive
+2025-10-10 06:27:21 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3d981979 is alive
+2025-10-10 06:27:26 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@766c8ac4 is alive
+2025-10-10 06:27:27 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@675d3595 is alive
+2025-10-10 06:27:34 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:27:34 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:27:55 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@64fba548 is alive
+2025-10-10 06:28:02 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@36eabd64 is alive
+2025-10-10 06:28:04 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:28:04 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:28:06 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@2b4e8d5 is alive
+2025-10-10 06:28:08 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7c4abed7 is alive
+2025-10-10 06:28:24 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@67e0c14 is alive
+2025-10-10 06:28:34 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:28:34 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:28:44 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@344ffb91 is alive
+2025-10-10 06:28:59 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@4743062f is alive
+2025-10-10 06:29:02 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@766c8ac4 is alive
+2025-10-10 06:29:04 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:29:04 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:29:14 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@675d3595 is alive
+2025-10-10 06:29:14 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3d981979 is alive
+2025-10-10 06:29:34 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:29:34 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:29:46 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7c4abed7 is alive
+2025-10-10 06:29:46 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@64fba548 is alive
+2025-10-10 06:29:52 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@2b4e8d5 is alive
+2025-10-10 06:29:59 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@36eabd64 is alive
+2025-10-10 06:30:00 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@67e0c14 is alive
+2025-10-10 06:30:04 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:30:04 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:30:28 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@344ffb91 is alive
+2025-10-10 06:30:34 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:30:34 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:30:39 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@766c8ac4 is alive
+2025-10-10 06:30:49 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@4743062f is alive
+2025-10-10 06:31:01 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@675d3595 is alive
+2025-10-10 06:31:04 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:31:04 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:31:07 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3d981979 is alive
+2025-10-10 06:31:23 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7c4abed7 is alive
+2025-10-10 06:31:34 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:31:34 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:31:36 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@67e0c14 is alive
+2025-10-10 06:31:37 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@64fba548 is alive
+2025-10-10 06:31:39 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@2b4e8d5 is alive
+2025-10-10 06:31:57 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@36eabd64 is alive
+2025-10-10 06:32:04 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:32:04 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:32:12 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@344ffb91 is alive
+2025-10-10 06:32:15 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@766c8ac4 is alive
+2025-10-10 06:32:34 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:32:34 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:32:39 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@4743062f is alive
+2025-10-10 06:32:48 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@675d3595 is alive
+2025-10-10 06:32:59 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3d981979 is alive
+2025-10-10 06:33:01 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7c4abed7 is alive
+2025-10-10 06:33:04 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:33:04 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:33:12 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@67e0c14 is alive
+2025-10-10 06:33:25 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@2b4e8d5 is alive
+2025-10-10 06:33:28 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@64fba548 is alive
+2025-10-10 06:33:34 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:33:34 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:33:52 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@766c8ac4 is alive
+2025-10-10 06:33:54 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@36eabd64 is alive
+2025-10-10 06:33:56 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@344ffb91 is alive
+2025-10-10 06:34:04 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:34:04 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:34:28 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@4743062f is alive
+2025-10-10 06:34:34 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:34:34 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:34:35 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@675d3595 is alive
+2025-10-10 06:34:38 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7c4abed7 is alive
+2025-10-10 06:34:48 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@67e0c14 is alive
+2025-10-10 06:34:52 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3d981979 is alive
+2025-10-10 06:35:04 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:35:04 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:35:11 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@2b4e8d5 is alive
+2025-10-10 06:35:19 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@64fba548 is alive
+2025-10-10 06:35:29 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@766c8ac4 is alive
+2025-10-10 06:35:34 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:35:34 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:35:40 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@344ffb91 is alive
+2025-10-10 06:35:51 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@36eabd64 is alive
+2025-10-10 06:36:04 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:36:04 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:36:15 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7c4abed7 is alive
+2025-10-10 06:36:18 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@4743062f is alive
+2025-10-10 06:36:22 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@675d3595 is alive
+2025-10-10 06:36:25 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@67e0c14 is alive
+2025-10-10 06:36:34 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:36:34 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:36:44 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3d981979 is alive
+2025-10-10 06:36:58 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@2b4e8d5 is alive
+2025-10-10 06:37:04 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:37:04 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:37:05 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@766c8ac4 is alive
+2025-10-10 06:37:11 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@64fba548 is alive
+2025-10-10 06:37:24 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@344ffb91 is alive
+2025-10-10 06:37:34 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:37:34 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:37:48 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@36eabd64 is alive
+2025-10-10 06:37:53 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7c4abed7 is alive
+2025-10-10 06:38:01 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@67e0c14 is alive
+2025-10-10 06:38:04 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:38:04 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:38:07 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@4743062f is alive
+2025-10-10 06:38:10 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@675d3595 is alive
+2025-10-10 06:38:34 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:38:34 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:38:37 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3d981979 is alive
+2025-10-10 06:38:42 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@766c8ac4 is alive
+2025-10-10 06:38:44 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@2b4e8d5 is alive
+2025-10-10 06:39:02 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@64fba548 is alive
+2025-10-10 06:39:04 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:39:04 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:39:08 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@344ffb91 is alive
+2025-10-10 06:39:30 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7c4abed7 is alive
+2025-10-10 06:39:35 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:39:35 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:39:37 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@67e0c14 is alive
+2025-10-10 06:39:45 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@36eabd64 is alive
+2025-10-10 06:39:57 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@675d3595 is alive
+2025-10-10 06:39:57 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@4743062f is alive
+2025-10-10 06:40:05 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:40:05 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:40:18 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@766c8ac4 is alive
+2025-10-10 06:40:30 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3d981979 is alive
+2025-10-10 06:40:30 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@2b4e8d5 is alive
+2025-10-10 06:40:35 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:40:35 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:40:52 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@344ffb91 is alive
+2025-10-10 06:40:53 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@64fba548 is alive
+2025-10-10 06:41:05 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:41:05 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:41:08 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7c4abed7 is alive
+2025-10-10 06:41:11 - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@766c8ac4: (connection has passed maxLifetime)
+2025-10-10 06:41:11 - HikariPool-1 - Attempting to create/setup new connection (6b0fc9f8-a1f2-4e02-9a88-c225ce0f681c)
+2025-10-10 06:41:12 - HikariPool-1 - Established new connection (6b0fc9f8-a1f2-4e02-9a88-c225ce0f681c)
+2025-10-10 06:41:12 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3c96d7a4
+2025-10-10 06:41:13 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@67e0c14 is alive
+2025-10-10 06:41:35 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:41:35 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:41:43 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@36eabd64 is alive
+2025-10-10 06:41:44 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@675d3595 is alive
+2025-10-10 06:41:47 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@4743062f is alive
+2025-10-10 06:42:05 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:42:05 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:42:17 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@2b4e8d5 is alive
+2025-10-10 06:42:22 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3d981979 is alive
+2025-10-10 06:42:30 - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@344ffb91: (connection has passed maxLifetime)
+2025-10-10 06:42:30 - HikariPool-1 - Attempting to create/setup new connection (e49aa4f4-79ba-4ae6-b5d4-097013c4e8e4)
+2025-10-10 06:42:30 - HikariPool-1 - Established new connection (e49aa4f4-79ba-4ae6-b5d4-097013c4e8e4)
+2025-10-10 06:42:30 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@24a9fcf1
+2025-10-10 06:42:35 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:42:35 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:42:44 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@64fba548 is alive
+2025-10-10 06:42:45 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7c4abed7 is alive
+2025-10-10 06:42:49 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@67e0c14 is alive
+2025-10-10 06:42:56 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3c96d7a4 is alive
+2025-10-10 06:43:05 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:43:05 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:43:31 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@675d3595 is alive
+2025-10-10 06:43:35 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:43:35 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:43:36 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@4743062f is alive
+2025-10-10 06:43:40 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@36eabd64 is alive
+2025-10-10 06:44:03 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@2b4e8d5 is alive
+2025-10-10 06:44:05 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:44:05 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:44:09 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@24a9fcf1 is alive
+2025-10-10 06:44:15 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3d981979 is alive
+2025-10-10 06:44:22 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7c4abed7 is alive
+2025-10-10 06:44:25 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@67e0c14 is alive
+2025-10-10 06:44:35 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:44:35 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:44:35 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@64fba548 is alive
+2025-10-10 06:44:38 - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@675d3595: (connection has passed maxLifetime)
+2025-10-10 06:44:38 - HikariPool-1 - Attempting to create/setup new connection (909f7b0b-fe6b-491c-b9d4-41f50e80d271)
+2025-10-10 06:44:38 - HikariPool-1 - Established new connection (909f7b0b-fe6b-491c-b9d4-41f50e80d271)
+2025-10-10 06:44:38 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5f1d1f79
+2025-10-10 06:44:40 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3c96d7a4 is alive
+2025-10-10 06:45:05 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:45:05 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:45:26 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@4743062f is alive
+2025-10-10 06:45:35 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:45:35 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:45:37 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@36eabd64 is alive
+2025-10-10 06:45:48 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@24a9fcf1 is alive
+2025-10-10 06:45:49 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@2b4e8d5 is alive
+2025-10-10 06:46:00 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7c4abed7 is alive
+2025-10-10 06:46:02 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@67e0c14 is alive
+2025-10-10 06:46:05 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:46:05 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:46:07 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3d981979 is alive
+2025-10-10 06:46:15 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5f1d1f79 is alive
+2025-10-10 06:46:23 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3c96d7a4 is alive
+2025-10-10 06:46:26 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@64fba548 is alive
+2025-10-10 06:46:35 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:46:35 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:47:05 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:47:05 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:47:10 - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@36eabd64: (connection has passed maxLifetime)
+2025-10-10 06:47:10 - HikariPool-1 - Attempting to create/setup new connection (7a99457e-c07e-46ed-9024-a4aeda4a228d)
+2025-10-10 06:47:10 - HikariPool-1 - Established new connection (7a99457e-c07e-46ed-9024-a4aeda4a228d)
+2025-10-10 06:47:10 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@218a63e0
+2025-10-10 06:47:11 - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@7c4abed7: (connection has passed maxLifetime)
+2025-10-10 06:47:11 - HikariPool-1 - Attempting to create/setup new connection (25a02b62-4dfb-44ee-8bd7-1d9b32e3ef6e)
+2025-10-10 06:47:11 - HikariPool-1 - Established new connection (25a02b62-4dfb-44ee-8bd7-1d9b32e3ef6e)
+2025-10-10 06:47:11 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@60b769db
+2025-10-10 06:47:15 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@4743062f is alive
+2025-10-10 06:47:21 - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@3d981979: (connection has passed maxLifetime)
+2025-10-10 06:47:21 - HikariPool-1 - Attempting to create/setup new connection (38ba3d4a-eabf-4642-a786-09293b67bd43)
+2025-10-10 06:47:21 - HikariPool-1 - Established new connection (38ba3d4a-eabf-4642-a786-09293b67bd43)
+2025-10-10 06:47:21 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@324e2441
+2025-10-10 06:47:23 - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@64fba548: (connection has passed maxLifetime)
+2025-10-10 06:47:23 - HikariPool-1 - Attempting to create/setup new connection (67423b8d-b8ff-4ae6-a342-c631ca78fa6f)
+2025-10-10 06:47:23 - HikariPool-1 - Established new connection (67423b8d-b8ff-4ae6-a342-c631ca78fa6f)
+2025-10-10 06:47:23 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@73732e7a
+2025-10-10 06:47:27 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@24a9fcf1 is alive
+2025-10-10 06:47:35 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:47:35 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:47:36 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@2b4e8d5 is alive
+2025-10-10 06:47:38 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@67e0c14 is alive
+2025-10-10 06:47:53 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5f1d1f79 is alive
+2025-10-10 06:48:05 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:48:05 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:48:07 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3c96d7a4 is alive
+2025-10-10 06:48:35 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:48:35 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:48:52 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@218a63e0 is alive
+2025-10-10 06:48:59 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@60b769db is alive
+2025-10-10 06:49:05 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@4743062f is alive
+2025-10-10 06:49:05 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:49:05 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:49:06 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@24a9fcf1 is alive
+2025-10-10 06:49:08 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@73732e7a is alive
+2025-10-10 06:49:14 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@67e0c14 is alive
+2025-10-10 06:49:16 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@324e2441 is alive
+2025-10-10 06:49:22 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@2b4e8d5 is alive
+2025-10-10 06:49:26 - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@4743062f: (connection has passed maxLifetime)
+2025-10-10 06:49:26 - HikariPool-1 - Attempting to create/setup new connection (a1395f72-4df0-4ed8-87b4-3103a0e46d73)
+2025-10-10 06:49:27 - HikariPool-1 - Established new connection (a1395f72-4df0-4ed8-87b4-3103a0e46d73)
+2025-10-10 06:49:27 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@652fbc69
+2025-10-10 06:49:31 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5f1d1f79 is alive
+2025-10-10 06:49:35 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:49:35 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:49:52 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3c96d7a4 is alive
+2025-10-10 06:50:05 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:50:05 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:50:32 - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@2b4e8d5: (connection has passed maxLifetime)
+2025-10-10 06:50:32 - HikariPool-1 - Attempting to create/setup new connection (a34358b5-bd22-4f8f-ac33-5426409fb994)
+2025-10-10 06:50:32 - HikariPool-1 - Established new connection (a34358b5-bd22-4f8f-ac33-5426409fb994)
+2025-10-10 06:50:32 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5e7acfbb
+2025-10-10 06:50:34 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@218a63e0 is alive
+2025-10-10 06:50:35 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:50:35 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:50:45 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@24a9fcf1 is alive
+2025-10-10 06:50:47 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@60b769db is alive
+2025-10-10 06:50:50 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@67e0c14 is alive
+2025-10-10 06:50:53 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@73732e7a is alive
+2025-10-10 06:51:05 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:51:06 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:51:07 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@652fbc69 is alive
+2025-10-10 06:51:09 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5f1d1f79 is alive
+2025-10-10 06:51:11 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@324e2441 is alive
+2025-10-10 06:51:35 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3c96d7a4 is alive
+2025-10-10 06:51:36 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:51:36 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:52:06 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:52:06 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:52:16 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@218a63e0 is alive
+2025-10-10 06:52:18 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5e7acfbb is alive
+2025-10-10 06:52:24 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@24a9fcf1 is alive
+2025-10-10 06:52:26 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@67e0c14 is alive
+2025-10-10 06:52:34 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@60b769db is alive
+2025-10-10 06:52:36 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:52:36 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:52:37 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@73732e7a is alive
+2025-10-10 06:52:47 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5f1d1f79 is alive
+2025-10-10 06:52:48 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@652fbc69 is alive
+2025-10-10 06:52:58 - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@67e0c14: (connection has passed maxLifetime)
+2025-10-10 06:52:59 - HikariPool-1 - Attempting to create/setup new connection (d4ed0b96-a01d-4aa8-8392-61e2292cc58b)
+2025-10-10 06:53:01 - HikariPool-1 - Established new connection (d4ed0b96-a01d-4aa8-8392-61e2292cc58b)
+2025-10-10 06:53:02 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@61c1a8fd
+2025-10-10 06:53:06 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@324e2441 is alive
+2025-10-10 06:53:06 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:53:07 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:53:19 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3c96d7a4 is alive
+2025-10-10 06:53:37 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:53:37 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:53:58 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@218a63e0 is alive
+2025-10-10 06:54:03 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5e7acfbb is alive
+2025-10-10 06:54:04 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@24a9fcf1 is alive
+2025-10-10 06:54:07 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:54:07 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:54:22 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@60b769db is alive
+2025-10-10 06:54:22 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@73732e7a is alive
+2025-10-10 06:54:24 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5f1d1f79 is alive
+2025-10-10 06:54:28 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@652fbc69 is alive
+2025-10-10 06:54:37 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:54:37 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:54:48 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@61c1a8fd is alive
+2025-10-10 06:55:01 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@324e2441 is alive
+2025-10-10 06:55:03 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3c96d7a4 is alive
+2025-10-10 06:55:07 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:55:07 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:55:37 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:55:37 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:55:40 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@218a63e0 is alive
+2025-10-10 06:55:43 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@24a9fcf1 is alive
+2025-10-10 06:55:49 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5e7acfbb is alive
+2025-10-10 06:56:02 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5f1d1f79 is alive
+2025-10-10 06:56:07 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:56:07 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:56:07 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@73732e7a is alive
+2025-10-10 06:56:09 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@652fbc69 is alive
+2025-10-10 06:56:10 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@60b769db is alive
+2025-10-10 06:56:34 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@61c1a8fd is alive
+2025-10-10 06:56:37 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:56:37 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:56:47 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3c96d7a4 is alive
+2025-10-10 06:56:57 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@324e2441 is alive
+2025-10-10 06:57:07 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:57:07 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:57:22 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@24a9fcf1 is alive
+2025-10-10 06:57:23 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@218a63e0 is alive
+2025-10-10 06:57:35 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5e7acfbb is alive
+2025-10-10 06:57:37 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:57:37 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:57:40 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5f1d1f79 is alive
+2025-10-10 06:57:50 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@652fbc69 is alive
+2025-10-10 06:57:52 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@73732e7a is alive
+2025-10-10 06:57:58 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@60b769db is alive
+2025-10-10 06:58:07 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:58:07 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:58:21 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@61c1a8fd is alive
+2025-10-10 06:58:31 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3c96d7a4 is alive
+2025-10-10 06:58:37 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:58:37 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:58:52 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@324e2441 is alive
+2025-10-10 06:59:01 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@24a9fcf1 is alive
+2025-10-10 06:59:05 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@218a63e0 is alive
+2025-10-10 06:59:07 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:59:07 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:59:17 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5f1d1f79 is alive
+2025-10-10 06:59:21 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5e7acfbb is alive
+2025-10-10 06:59:30 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@652fbc69 is alive
+2025-10-10 06:59:37 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@73732e7a is alive
+2025-10-10 06:59:37 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 06:59:37 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 06:59:46 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@60b769db is alive
+2025-10-10 07:00:07 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:00:07 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:00:07 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@61c1a8fd is alive
+2025-10-10 07:00:15 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3c96d7a4 is alive
+2025-10-10 07:00:37 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:00:37 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:00:40 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@24a9fcf1 is alive
+2025-10-10 07:00:47 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@324e2441 is alive
+2025-10-10 07:00:47 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@218a63e0 is alive
+2025-10-10 07:00:55 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5f1d1f79 is alive
+2025-10-10 07:01:06 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5e7acfbb is alive
+2025-10-10 07:01:07 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:01:07 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:01:11 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@652fbc69 is alive
+2025-10-10 07:01:22 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@73732e7a is alive
+2025-10-10 07:01:34 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@60b769db is alive
+2025-10-10 07:01:37 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:01:37 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:01:53 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@61c1a8fd is alive
+2025-10-10 07:01:58 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3c96d7a4 is alive
+2025-10-10 07:02:07 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:02:07 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:02:19 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@24a9fcf1 is alive
+2025-10-10 07:02:29 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@218a63e0 is alive
+2025-10-10 07:02:33 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5f1d1f79 is alive
+2025-10-10 07:02:37 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:02:37 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:02:42 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@324e2441 is alive
+2025-10-10 07:02:51 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@652fbc69 is alive
+2025-10-10 07:02:52 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5e7acfbb is alive
+2025-10-10 07:03:06 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@73732e7a is alive
+2025-10-10 07:03:07 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:03:07 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:03:22 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@60b769db is alive
+2025-10-10 07:03:37 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:03:37 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:03:40 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@61c1a8fd is alive
+2025-10-10 07:03:42 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3c96d7a4 is alive
+2025-10-10 07:03:58 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@24a9fcf1 is alive
+2025-10-10 07:04:07 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:04:07 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:04:10 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5f1d1f79 is alive
+2025-10-10 07:04:11 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@218a63e0 is alive
+2025-10-10 07:04:32 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@652fbc69 is alive
+2025-10-10 07:04:37 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@324e2441 is alive
+2025-10-10 07:04:37 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:04:37 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:04:38 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5e7acfbb is alive
+2025-10-10 07:04:51 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@73732e7a is alive
+2025-10-10 07:04:55 - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@3c96d7a4: (connection has passed maxLifetime)
+2025-10-10 07:04:55 - HikariPool-1 - Attempting to create/setup new connection (b7812b91-78f2-40ae-8ee3-4ba90213aca8)
+2025-10-10 07:04:55 - HikariPool-1 - Established new connection (b7812b91-78f2-40ae-8ee3-4ba90213aca8)
+2025-10-10 07:04:55 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7ad4bffb
+2025-10-10 07:05:07 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:05:07 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:05:09 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@60b769db is alive
+2025-10-10 07:05:26 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@61c1a8fd is alive
+2025-10-10 07:05:37 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@24a9fcf1 is alive
+2025-10-10 07:05:37 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:05:37 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:05:48 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5f1d1f79 is alive
+2025-10-10 07:05:53 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@218a63e0 is alive
+2025-10-10 07:06:07 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:06:07 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:06:12 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@652fbc69 is alive
+2025-10-10 07:06:24 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5e7acfbb is alive
+2025-10-10 07:06:32 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@324e2441 is alive
+2025-10-10 07:06:36 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@73732e7a is alive
+2025-10-10 07:06:37 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:06:37 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:06:51 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7ad4bffb is alive
+2025-10-10 07:06:57 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@60b769db is alive
+2025-10-10 07:07:07 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:07:07 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:07:13 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@61c1a8fd is alive
+2025-10-10 07:07:16 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@24a9fcf1 is alive
+2025-10-10 07:07:26 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5f1d1f79 is alive
+2025-10-10 07:07:35 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@218a63e0 is alive
+2025-10-10 07:07:36 - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@5f1d1f79: (connection has passed maxLifetime)
+2025-10-10 07:07:36 - HikariPool-1 - Attempting to create/setup new connection (def0e191-b3dd-4e8a-b7fa-f35ab70275ef)
+2025-10-10 07:07:37 - HikariPool-1 - Established new connection (def0e191-b3dd-4e8a-b7fa-f35ab70275ef)
+2025-10-10 07:07:37 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3383f7a9
+2025-10-10 07:07:37 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:07:37 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:07:53 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@652fbc69 is alive
+2025-10-10 07:08:07 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:08:07 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:08:09 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5e7acfbb is alive
+2025-10-10 07:08:21 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@73732e7a is alive
+2025-10-10 07:08:27 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@324e2441 is alive
+2025-10-10 07:08:37 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:08:37 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:08:45 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@60b769db is alive
+2025-10-10 07:08:47 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7ad4bffb is alive
+2025-10-10 07:08:55 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@24a9fcf1 is alive
+2025-10-10 07:08:59 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@61c1a8fd is alive
+2025-10-10 07:09:07 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:09:07 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:09:18 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@218a63e0 is alive
+2025-10-10 07:09:33 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3383f7a9 is alive
+2025-10-10 07:09:33 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@652fbc69 is alive
+2025-10-10 07:09:37 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:09:37 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:09:55 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5e7acfbb is alive
+2025-10-10 07:10:06 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@73732e7a is alive
+2025-10-10 07:10:07 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:10:07 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:10:22 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@324e2441 is alive
+2025-10-10 07:10:26 - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@218a63e0: (connection has passed maxLifetime)
+2025-10-10 07:10:26 - HikariPool-1 - Attempting to create/setup new connection (48ceddbe-da03-4862-a19b-61c011f55718)
+2025-10-10 07:10:27 - HikariPool-1 - Established new connection (48ceddbe-da03-4862-a19b-61c011f55718)
+2025-10-10 07:10:27 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@516b90ee
+2025-10-10 07:10:33 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@60b769db is alive
+2025-10-10 07:10:34 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@24a9fcf1 is alive
+2025-10-10 07:10:37 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:10:37 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:10:43 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7ad4bffb is alive
+2025-10-10 07:10:45 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@61c1a8fd is alive
+2025-10-10 07:11:07 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:11:07 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:11:14 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@652fbc69 is alive
+2025-10-10 07:11:14 - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@24a9fcf1: (connection has passed maxLifetime)
+2025-10-10 07:11:14 - HikariPool-1 - Attempting to create/setup new connection (0baafdec-e921-444a-b62c-0a54d5a4c858)
+2025-10-10 07:11:14 - HikariPool-1 - Established new connection (0baafdec-e921-444a-b62c-0a54d5a4c858)
+2025-10-10 07:11:14 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1c421ae8
+2025-10-10 07:11:28 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3383f7a9 is alive
+2025-10-10 07:11:37 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:11:37 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:11:41 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5e7acfbb is alive
+2025-10-10 07:11:50 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@73732e7a is alive
+2025-10-10 07:11:52 - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@73732e7a: (connection has passed maxLifetime)
+2025-10-10 07:11:52 - HikariPool-1 - Attempting to create/setup new connection (d1a4cffd-3760-47a4-8f98-7e6f50a15913)
+2025-10-10 07:11:52 - HikariPool-1 - Established new connection (d1a4cffd-3760-47a4-8f98-7e6f50a15913)
+2025-10-10 07:11:52 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5a5929ca
+2025-10-10 07:12:07 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:12:07 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:12:12 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@516b90ee is alive
+2025-10-10 07:12:17 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@324e2441 is alive
+2025-10-10 07:12:21 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@60b769db is alive
+2025-10-10 07:12:32 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@61c1a8fd is alive
+2025-10-10 07:12:37 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:12:37 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:12:39 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7ad4bffb is alive
+2025-10-10 07:12:54 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@652fbc69 is alive
+2025-10-10 07:12:59 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1c421ae8 is alive
+2025-10-10 07:13:08 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:13:08 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:13:24 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3383f7a9 is alive
+2025-10-10 07:13:27 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5e7acfbb is alive
+2025-10-10 07:13:31 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5a5929ca is alive
+2025-10-10 07:13:38 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:13:38 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:13:38 - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@5e7acfbb: (connection has passed maxLifetime)
+2025-10-10 07:13:38 - HikariPool-1 - Attempting to create/setup new connection (7bd79a73-a892-4ae7-92de-abcceceb1177)
+2025-10-10 07:13:38 - HikariPool-1 - Established new connection (7bd79a73-a892-4ae7-92de-abcceceb1177)
+2025-10-10 07:13:38 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@b0c2c7e
+2025-10-10 07:13:57 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@516b90ee is alive
+2025-10-10 07:14:08 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:14:08 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:14:09 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@60b769db is alive
+2025-10-10 07:14:12 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@324e2441 is alive
+2025-10-10 07:14:15 - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@60b769db: (connection has passed maxLifetime)
+2025-10-10 07:14:15 - HikariPool-1 - Attempting to create/setup new connection (7107d4c7-80db-4a1c-ae87-7916cd2241b0)
+2025-10-10 07:14:15 - HikariPool-1 - Established new connection (7107d4c7-80db-4a1c-ae87-7916cd2241b0)
+2025-10-10 07:14:15 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6089088a
+2025-10-10 07:14:18 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@61c1a8fd is alive
+2025-10-10 07:14:29 - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@324e2441: (connection has passed maxLifetime)
+2025-10-10 07:14:29 - HikariPool-1 - Attempting to create/setup new connection (f472637a-de92-4edd-bd73-6bdcaf9ad845)
+2025-10-10 07:14:29 - HikariPool-1 - Established new connection (f472637a-de92-4edd-bd73-6bdcaf9ad845)
+2025-10-10 07:14:29 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@38ece4d0
+2025-10-10 07:14:35 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@652fbc69 is alive
+2025-10-10 07:14:35 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7ad4bffb is alive
+2025-10-10 07:14:38 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:14:38 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:14:44 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1c421ae8 is alive
+2025-10-10 07:15:08 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:15:08 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:15:10 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5a5929ca is alive
+2025-10-10 07:15:19 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3383f7a9 is alive
+2025-10-10 07:15:38 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:15:38 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:15:38 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@b0c2c7e is alive
+2025-10-10 07:15:41 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@516b90ee is alive
+2025-10-10 07:16:05 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@61c1a8fd is alive
+2025-10-10 07:16:08 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:16:08 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:16:10 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6089088a is alive
+2025-10-10 07:16:15 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@652fbc69 is alive
+2025-10-10 07:16:19 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@38ece4d0 is alive
+2025-10-10 07:16:21 - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@652fbc69: (connection has passed maxLifetime)
+2025-10-10 07:16:21 - HikariPool-1 - Attempting to create/setup new connection (fd988d79-16f8-44d9-9c50-d403be210996)
+2025-10-10 07:16:21 - HikariPool-1 - Established new connection (fd988d79-16f8-44d9-9c50-d403be210996)
+2025-10-10 07:16:21 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7b8e1678
+2025-10-10 07:16:29 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1c421ae8 is alive
+2025-10-10 07:16:31 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7ad4bffb is alive
+2025-10-10 07:16:38 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:16:38 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:16:48 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5a5929ca is alive
+2025-10-10 07:17:08 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:17:08 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:17:14 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3383f7a9 is alive
+2025-10-10 07:17:26 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@516b90ee is alive
+2025-10-10 07:17:38 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:17:38 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:17:38 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@b0c2c7e is alive
+2025-10-10 07:17:51 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@61c1a8fd is alive
+2025-10-10 07:18:04 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6089088a is alive
+2025-10-10 07:18:08 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:18:08 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:18:08 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@38ece4d0 is alive
+2025-10-10 07:18:14 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1c421ae8 is alive
+2025-10-10 07:18:17 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7b8e1678 is alive
+2025-10-10 07:18:27 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7ad4bffb is alive
+2025-10-10 07:18:27 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5a5929ca is alive
+2025-10-10 07:18:38 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:18:38 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:19:02 - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@61c1a8fd: (connection has passed maxLifetime)
+2025-10-10 07:19:02 - HikariPool-1 - Attempting to create/setup new connection (f667e0f0-8357-412f-b14c-b30f7dec95d9)
+2025-10-10 07:19:02 - HikariPool-1 - Established new connection (f667e0f0-8357-412f-b14c-b30f7dec95d9)
+2025-10-10 07:19:02 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5af95ea2
+2025-10-10 07:19:08 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:19:08 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:19:10 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3383f7a9 is alive
+2025-10-10 07:19:11 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@516b90ee is alive
+2025-10-10 07:19:38 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:19:38 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:19:38 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@b0c2c7e is alive
+2025-10-10 07:19:58 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@38ece4d0 is alive
+2025-10-10 07:19:59 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6089088a is alive
+2025-10-10 07:19:59 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1c421ae8 is alive
+2025-10-10 07:20:06 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5a5929ca is alive
+2025-10-10 07:20:08 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:20:08 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:20:13 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7b8e1678 is alive
+2025-10-10 07:20:23 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7ad4bffb is alive
+2025-10-10 07:20:38 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:20:38 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:20:41 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5af95ea2 is alive
+2025-10-10 07:20:56 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@516b90ee is alive
+2025-10-10 07:21:05 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3383f7a9 is alive
+2025-10-10 07:21:08 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:21:08 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:21:38 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:21:38 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:21:38 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@b0c2c7e is alive
+2025-10-10 07:21:43 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1c421ae8 is alive
+2025-10-10 07:21:45 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5a5929ca is alive
+2025-10-10 07:21:47 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@38ece4d0 is alive
+2025-10-10 07:21:53 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6089088a is alive
+2025-10-10 07:22:08 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:22:08 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:22:09 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7b8e1678 is alive
+2025-10-10 07:22:18 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7ad4bffb is alive
+2025-10-10 07:22:19 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5af95ea2 is alive
+2025-10-10 07:22:38 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:22:38 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:22:41 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@516b90ee is alive
+2025-10-10 07:23:01 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3383f7a9 is alive
+2025-10-10 07:23:08 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:23:08 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:23:24 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5a5929ca is alive
+2025-10-10 07:23:28 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1c421ae8 is alive
+2025-10-10 07:23:37 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@38ece4d0 is alive
+2025-10-10 07:23:38 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@b0c2c7e is alive
+2025-10-10 07:23:38 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:23:38 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:23:48 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6089088a is alive
+2025-10-10 07:23:58 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5af95ea2 is alive
+2025-10-10 07:24:05 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7b8e1678 is alive
+2025-10-10 07:24:08 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:24:08 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:24:14 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7ad4bffb is alive
+2025-10-10 07:24:26 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@516b90ee is alive
+2025-10-10 07:24:38 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:24:38 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:24:56 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3383f7a9 is alive
+2025-10-10 07:25:02 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5a5929ca is alive
+2025-10-10 07:25:08 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:25:08 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:25:13 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1c421ae8 is alive
+2025-10-10 07:25:27 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@38ece4d0 is alive
+2025-10-10 07:25:36 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5af95ea2 is alive
+2025-10-10 07:25:38 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@b0c2c7e is alive
+2025-10-10 07:25:38 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:25:38 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:25:42 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6089088a is alive
+2025-10-10 07:26:01 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7b8e1678 is alive
+2025-10-10 07:26:08 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:26:08 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:26:10 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7ad4bffb is alive
+2025-10-10 07:26:11 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@516b90ee is alive
+2025-10-10 07:26:38 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:26:38 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:26:41 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5a5929ca is alive
+2025-10-10 07:26:52 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3383f7a9 is alive
+2025-10-10 07:26:58 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1c421ae8 is alive
+2025-10-10 07:27:08 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:27:08 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:27:14 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5af95ea2 is alive
+2025-10-10 07:27:16 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@38ece4d0 is alive
+2025-10-10 07:27:37 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6089088a is alive
+2025-10-10 07:27:37 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@b0c2c7e is alive
+2025-10-10 07:27:38 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:27:38 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:27:56 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@516b90ee is alive
+2025-10-10 07:27:57 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7b8e1678 is alive
+2025-10-10 07:28:06 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7ad4bffb is alive
+2025-10-10 07:28:08 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:28:08 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:28:20 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5a5929ca is alive
+2025-10-10 07:28:38 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:28:38 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:28:43 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1c421ae8 is alive
+2025-10-10 07:28:47 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3383f7a9 is alive
+2025-10-10 07:28:53 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5af95ea2 is alive
+2025-10-10 07:29:06 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@38ece4d0 is alive
+2025-10-10 07:29:08 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:29:08 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:29:31 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6089088a is alive
+2025-10-10 07:29:37 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@b0c2c7e is alive
+2025-10-10 07:29:38 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:29:38 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:29:41 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@516b90ee is alive
+2025-10-10 07:29:53 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7b8e1678 is alive
+2025-10-10 07:29:58 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5a5929ca is alive
+2025-10-10 07:30:02 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7ad4bffb is alive
+2025-10-10 07:30:08 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:30:08 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:30:28 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1c421ae8 is alive
+2025-10-10 07:30:31 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5af95ea2 is alive
+2025-10-10 07:30:38 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:30:38 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:30:41 - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@7ad4bffb: (connection has passed maxLifetime)
+2025-10-10 07:30:41 - HikariPool-1 - Attempting to create/setup new connection (e74c6e3f-0c75-4187-965d-ea29703d10a0)
+2025-10-10 07:30:41 - HikariPool-1 - Established new connection (e74c6e3f-0c75-4187-965d-ea29703d10a0)
+2025-10-10 07:30:41 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@307b5da8
+2025-10-10 07:30:43 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3383f7a9 is alive
+2025-10-10 07:30:56 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@38ece4d0 is alive
+2025-10-10 07:31:08 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:31:08 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:31:26 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6089088a is alive
+2025-10-10 07:31:26 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@516b90ee is alive
+2025-10-10 07:31:37 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@b0c2c7e is alive
+2025-10-10 07:31:37 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5a5929ca is alive
+2025-10-10 07:31:38 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:31:38 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:31:49 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7b8e1678 is alive
+2025-10-10 07:32:08 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:32:08 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:32:10 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5af95ea2 is alive
+2025-10-10 07:32:12 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1c421ae8 is alive
+2025-10-10 07:32:33 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@307b5da8 is alive
+2025-10-10 07:32:38 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:32:38 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:32:38 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3383f7a9 is alive
+2025-10-10 07:32:45 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@38ece4d0 is alive
+2025-10-10 07:33:08 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:33:08 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:33:11 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@516b90ee is alive
+2025-10-10 07:33:16 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5a5929ca is alive
+2025-10-10 07:33:20 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6089088a is alive
+2025-10-10 07:33:37 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@b0c2c7e is alive
+2025-10-10 07:33:38 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:33:38 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:33:45 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7b8e1678 is alive
+2025-10-10 07:33:48 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5af95ea2 is alive
+2025-10-10 07:33:57 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1c421ae8 is alive
+2025-10-10 07:33:57 - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@516b90ee: (connection has passed maxLifetime)
+2025-10-10 07:33:58 - HikariPool-1 - Attempting to create/setup new connection (acaedd32-4a4d-4f6d-ac4f-7352669bc3fa)
+2025-10-10 07:33:58 - HikariPool-1 - Established new connection (acaedd32-4a4d-4f6d-ac4f-7352669bc3fa)
+2025-10-10 07:33:58 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@214e511
+2025-10-10 07:34:08 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:34:08 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:34:25 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@307b5da8 is alive
+2025-10-10 07:34:30 - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@3383f7a9: (connection has passed maxLifetime)
+2025-10-10 07:34:30 - HikariPool-1 - Attempting to create/setup new connection (6ef86b52-dbf4-4104-9718-319be6262687)
+2025-10-10 07:34:30 - HikariPool-1 - Established new connection (6ef86b52-dbf4-4104-9718-319be6262687)
+2025-10-10 07:34:30 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6e407edf
+2025-10-10 07:34:35 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@38ece4d0 is alive
+2025-10-10 07:34:38 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:34:38 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:34:55 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5a5929ca is alive
+2025-10-10 07:35:08 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:35:08 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:35:15 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6089088a is alive
+2025-10-10 07:35:26 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5af95ea2 is alive
+2025-10-10 07:35:37 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@b0c2c7e is alive
+2025-10-10 07:35:38 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:35:38 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:35:40 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7b8e1678 is alive
+2025-10-10 07:35:42 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1c421ae8 is alive
+2025-10-10 07:35:51 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@214e511 is alive
+2025-10-10 07:36:08 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:36:08 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-10-10 07:36:16 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6e407edf is alive
+2025-10-10 07:36:17 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@307b5da8 is alive
+2025-10-10 07:36:24 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@38ece4d0 is alive
+2025-10-10 07:36:33 - HikariPool-1 - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5a5929ca is alive
+2025-10-10 07:36:38 - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-10-10 07:36:38 - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.

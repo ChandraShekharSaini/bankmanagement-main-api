@@ -1,0 +1,24 @@
+spring:
+  application:
+    name: bankmanagement-api
+
+
+logging:
+  level:
+    com: DEBUG
+  file:
+    name: ./log/logging.log
+  pattern:
+    console: "%d{yyyy-MM-dd HH:mm:ss} - %msg%n"
+    file: "%d{yyyy-MM-dd HH:mm:ss} - %msg%n"
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+  endpoint:
+    health:
+      show-components: always
+      show-details: always
+
