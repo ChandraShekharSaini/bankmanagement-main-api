@@ -1,4 +1,4 @@
-# 🏦 Bank Management System — Java Spring Boot Project
+# 🏦 Bank Management System — Spring Boot Project
 
 The **Bank Management System** is a full-featured web application built using **Spring Boot**, designed to handle essential banking operations like account creation, transactions, balance tracking, and customer management.  
 It focuses on scalability, modularity, and security — showcasing how modern banking logic can be implemented using enterprise-grade Java technologies.
@@ -38,9 +38,11 @@ The system can be easily integrated with any frontend (React, Angular, etc.) or 
 - 🧱 MySQL / PostgreSQL Database
 - 🔐 Spring Security with JWT Authentication
 - 🌐 RESTful API Architecture
+- ⚙️ Spring Boot Actuator — Provides production-ready monitoring, health checks, and metrics
+🌐 RESTful API Architecture — Well-structured API design for frontend and third-party integratio
 
 ### **Tools & Build**
-- 🧰 Maven
+- 🧰 Gradel
 - 🧱 IntelliJ IDEA / Eclipse
 - 🌍 Postman for API Testing
 - 🧾 Lombok (for boilerplate reduction)
